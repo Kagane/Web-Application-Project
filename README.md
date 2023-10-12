@@ -1,6 +1,7 @@
 # Web-Application-Project
+Creating a training provider management system, Skill2Go, to boost the management for online learning platforms. It simplifies the course enrollment for students, instructor management, and updating instructors availability for their preferred courses. Students can benefit from the quality courses, variety enrollment options, and obtain certificates upon completion. Students can also provide valuable feedback on their learning experience too.
 
-Contains 3 roles: student, instructor and training provider
+This project contains 3 roles: student, instructor and training provider
 
 ## Use Case
 ### All:
