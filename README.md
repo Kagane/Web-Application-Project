@@ -1,19 +1,19 @@
-## Web-Application-Project
+# Web-Application-Project
 
 Contains 3 roles: student, instructor and training provider
 
-# Use Case
-All:
+## Use Case
+### All:
     -Login
     -Sign up
     -Logout
     
-Training Provider:
+### Training Provider:
     -Add courses
     -Update courses
     -Delete courses
     
-Student:
+### Student:
     -Register courses
     -View enrolled courses
     -Start/Continue Ongoing courses
@@ -21,5 +21,5 @@ Student:
     -View certificate of completion
     -View profile
     
-Instructor:
+### Instructor:
     -Update availability
